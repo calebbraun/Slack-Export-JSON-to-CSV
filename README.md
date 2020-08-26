@@ -1,5 +1,5 @@
 # Slack-Export-JSON-to-CSV
-Convert Slack messages exported in their complicated JSON format to simple CSV formatpa
+Convert Slack messages exported in their complicated JSON format to simple CSV format
 
 To run the application use the following command
 
